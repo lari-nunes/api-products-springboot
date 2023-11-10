@@ -27,7 +27,7 @@ cd cursoSpring
 - Java 17
 - Spring Boot 3.1.5
 - JPA
-- Spring HATEOAS
+- Spring MVC
 - PostgreSQL
 - Insomnia (testar endpoints)
 
